@@ -1,4 +1,4 @@
-# HabiticaProgrammingChallengeOktober2019
+# Habitica Programming Challenge Oktober 2019
 Compute the scrabble score of a given word.  
 
 In the game Scrabble each letter has a value. One completed word gives you a score.
